@@ -122,7 +122,7 @@ footer{background:#000011;text-align:center;padding:20px 0;margin-top:50px;font-
 <!-- Contact -->
 <section id="contact" class="contact">
 <h2 style="text-align:center;margin-bottom:20px;">যোগাযোগ</h2>
-<p style="text-align:center;">ইমেইল: info@cyberacademy.com | ফোন: ০১৮৮৮৬১০৭৯৬</p>
+<p style="text-align:center;">ইমেইল: simply10904@gmail.com | ফোন: ০১৮৮৮৬১০৭৯৬</p>
 </section>
 
 <!-- Welcome -->
